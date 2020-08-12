@@ -10,7 +10,7 @@ Although online consumer reviews (OCRs) have helped consumers to know about the 
 
 ## Running the project
 
-### Ubuntu
+### Terminal
 
 ```
 virtualenv -p python3 venv
